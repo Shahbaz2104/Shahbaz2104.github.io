@@ -144,7 +144,6 @@ export const moreProjects: MoreProject[] = [
     meta: "Express · MongoDB · TOTP 2FA · CSV export",
     icon: "list-checks",
     github: "https://github.com/Shahbaz2104/taskapi",
-    live: "https://taskapi-pi.vercel.app",
   },
 ];
 
